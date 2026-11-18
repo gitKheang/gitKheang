@@ -15,11 +15,11 @@ I build full-stack web apps, from database and REST API to a responsive React fr
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**DormFlow**](https://github.com/gitKheang/dorm) | Multi-dorm management: rooms, tenants, meal plans, invoices, maintenance, with three user roles | React · TypeScript · Supabase |
-| [**Hack Your Own Web**](https://github.com/gitKheang/own) | Web security scanner with DNS domain verification, TLS/header/cookie/CORS checks and SSRF protection | FastAPI · React · PostgreSQL |
+| [**DormFlow**](https://github.com/gitKheang/dormflow) | Multi-dorm management: rooms, tenants, meal plans, invoices, maintenance, with three user roles | React · TypeScript · Supabase |
+| [**Hack Your Own Web**](https://github.com/gitKheang/hack-your-own-web) | Web security scanner with DNS domain verification, TLS/header/cookie/CORS checks and SSRF protection | FastAPI · React · PostgreSQL |
 | [**FlashGenius**](https://github.com/gitKheang/flashgenius) | Turns PDF notes into AI-generated flashcards and exports Anki decks | Next.js · FastAPI · Gemini |
-| [**InterviewAI**](https://github.com/gitKheang/ai-interview-github) | Technical interview platform with live rooms, AI chat, code execution and evaluation | Next.js · FastAPI · PostgreSQL |
-| [**LibraryHub**](https://github.com/gitKheang/LMS) | University library system: catalog, loans, reminders, notifications, admin roles | Angular · Express · MongoDB |
+| [**InterviewAI**](https://github.com/gitKheang/interview-ai) | Technical interview platform with live rooms, AI chat, code execution and evaluation | Next.js · FastAPI · PostgreSQL |
+| [**LibraryHub**](https://github.com/gitKheang/libraryhub) | University library system: catalog, loans, reminders, notifications, admin roles | Angular · Express · MongoDB |
 | [**QuizMaster**](https://github.com/gitKheang/quiz-backend) | Timed quizzes, server-side scoring, leaderboards, Google sign-in | NestJS · Prisma · React |
 
 ### 📫 Contact
